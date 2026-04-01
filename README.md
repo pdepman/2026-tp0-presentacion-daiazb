@@ -13,7 +13,7 @@
 - Tengo 2 caniches.
 - Una de mis frases favoritas es: *La única vez que deberías mirar atrás es para ver lo mucho que has avanzado*
 
-##Foto:
+## Foto:
 ### La foto esta ubicada en el Jeju(제주도)- Snoopy Garden
 
 
