@@ -14,7 +14,7 @@
 - Una de mis frases favoritas es: *La única vez que deberías mirar atrás es para ver lo mucho que has avanzado*
 
 ## Foto:
-### La foto esta ubicada en el Jeju(제주도)- Snoopy Garden
+### La foto esta ubicada en Jeju(제주도)- Snoopy Garden
 
-
+![IMG-20250404-WA0293](https://github.com/user-attachments/assets/ffa84023-e51c-4676-a2ab-90ff19bcf48b)
 
