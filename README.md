@@ -7,6 +7,7 @@
 
 # Datos:
 - Trabajo como Analista de Gestión de Accesos (IAM) en WU.
+- En mi puesto, programar no es una de nuestras tareas diarias, aun asi, tengo conocimientos básicos sobre C, Python, JavaScript.
 - Uno de mis grandes sueños era viajar a Corea del Sur, se cumplío en Marzo del 2025.
 - Estudiante de Coreano.
 - Fan del invierno.
